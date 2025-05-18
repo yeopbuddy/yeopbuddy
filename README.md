@@ -1,6 +1,3 @@
-## Hi there 👋
-[![코드트리|실력진단-kjohn0714](https://banner.codetree.ai/v1/banner/kjohn0714)](https://www.codetree.ai/profiles/kjohn0714)
-
 <div>
   
   <!--Header-->
