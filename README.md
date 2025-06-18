@@ -53,7 +53,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=yeopbuddy&show_icons=true&theme=tokyonight" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yeopbuddy&show_icons=true&theme=tokyonight" width="100%" href="https://solved.ac/profile/ssafy13kjohn0714"/>
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeopbuddy&layout=compact&theme=tokyonight" width="100%"/>
