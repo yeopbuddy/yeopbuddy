@@ -63,8 +63,8 @@
 
 <br/>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714" height="150" href="https://solved.ac/profile/ssafy13kjohn0714"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714" height="150" href="https://solved.ac/profile/kjohn0714"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714" height="150"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714" height="150"/>
 
 </div>
 
