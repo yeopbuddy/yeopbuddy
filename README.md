@@ -62,10 +62,10 @@
 </table>
 
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714)](https://solved.ac/ssafy13kjohn0714/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714)](https://solved.ac/kjohn0714/)
-<!--><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714" height="150"/>
-<!--><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714" height="150"/>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714" href="https://solved.ac/ssafy13kjohn0714/" height="150"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714" href="https://solved.ac/kjohn0714/" height="150"/>
+
 
 </div>
 
