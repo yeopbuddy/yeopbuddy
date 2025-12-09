@@ -44,22 +44,9 @@
 
 ---
 
-## 📊 GitHub & BOJ Stats
+## 📊 BOJ Stats
 
 <div align="center">
-
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=yeopbuddy&show_icons=true&theme=tokyonight" width="100%"/>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeopbuddy&layout=compact&theme=tokyonight" width="100%"/>
-  </td>
-</tr>
-</table>
-
-<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714)](https://solved.ac/ssafy13kjohn0714/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714)](https://solved.ac/kjohn0714/)
