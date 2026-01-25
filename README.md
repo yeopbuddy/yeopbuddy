@@ -6,7 +6,7 @@
 ## 👀 About Me
 
 - 🧑‍💻 I’m a **Software Developer** from South Korea  
-- 🔧 I aim to become a **Professional Embedded SW Engineer**  
+- 🔧 I aim to become a **Professional SW Engineer**  
 - 🎓 Bachelor of **Electronic Engineering**, Ajou University  
 
 ---
