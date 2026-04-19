@@ -50,7 +50,7 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy13kjohn0714)](https://solved.ac/ssafy13kjohn0714/) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjohn0714)](https://solved.ac/kjohn0714/) -->
-[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=ssafy13kjohn0714&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
+<img src="solved.svg" alt="last solved streak">
 
 </div>
 
